@@ -81,6 +81,13 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Agency Management Platform",
+    description:
+      "A comprehensive CRM platform designed to streamline lead management, team collaboration, and client communication. Built with modern tech to boost productivity, automate workflows, and scale business growth.",
+    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma","PostgreSQL"],
+    imageUrl: Agency,
+  },
+  {
     title: "CorpComment",
     description:
       "Users can give public feedback to companies.",
@@ -95,7 +102,7 @@ export const projectsData = [
     imageUrl: hotel,
   },
   {
-    title: "Messeging",
+    title: "Messaging",
     description:
       "An app used to Message,Make Group chats,Edit profile,Auth,Send images features",
     tags: ["React", "Next.js", "MongoDB", "Tailwind","Node.js","Prisma","Typescript"],
@@ -109,9 +116,9 @@ export const projectsData = [
     imageUrl: twitter,
   },
   {
-    title: "Intagram UI",
+    title: "Instagram UI",
     description:
-      "This Application is built in React Native representing UI of Instsgram.",
+      "This Application is built in React Native representing UI of Instagram.",
     tags: ["React", "React Native","Typescript"],
     imageUrl: Insta,
   },

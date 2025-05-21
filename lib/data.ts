@@ -39,6 +39,22 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Software Engineer Intern",
+    location: "Pune",
+    description:
+      "Completed Internship in Software Engineering at R.K Innovate",
+    icon: React.createElement(FaRobot),
+    date: "2025",
+  },
+  {
+    title: "Software Engineer Intern",
+    location: "Pune",
+    description:
+      "Completed Internship in Software Engineering at PostCare.AI",
+    icon: React.createElement(FaRobot),
+    date: "2024",
+  },
+  {
     title: "Smartlearn AI",
     location: "Pune",
     description:

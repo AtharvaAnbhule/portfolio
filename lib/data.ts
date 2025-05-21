@@ -8,6 +8,7 @@ import wordanalyticsImg from "@/public/wordanalytics.png";
 import hotel from "@/public/hotel.png";
 import Insta from "@/public/Inta UI.png";
 import Vehivle from "@/public/Vehivle.png";
+import Agency from "@/public/Agency.png";
 
 export const links = [
   {

@@ -39,69 +39,136 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Software Engineer Intern",
+  title: "Site Reliability Engineer Intern (Applically)",
+  location: "Pune",
+  description:
+    "Optimized large-scale distributed systems with monitoring, automation, and CI/CD pipelines.",
+  icon: React.createElement(FaRobot),
+  date: "Jan 2025 - Jun 2025",
+} , 
+
+  {
+    title: "Software Engineer Intern (R.K Innovate)",
     location: "Pune",
     description:
-      "Completed Internship in Software Engineering at R.K Innovate",
+      "Completed a hands-on internship, developing software solutions and enhancing practical engineering skills in real-world projects",
     icon: React.createElement(FaRobot),
-    date: "2025",
+    date: "Jun 2024 - Dec 2024",
   },
   {
-    title: "Software Engineer Intern",
+    title: "Business Development Intern (Demand Nexus)",
     location: "Pune",
     description:
-      "Completed Internship in Software Engineering at PostCare.AI",
+      "Completed a hands-on internship, driving business growth initiatives, building client relationships, and enhancing practical skills in market research and strategy",
     icon: React.createElement(FaRobot),
-    date: "2024",
-  },
+    date: "Jan 2024 - March 2024",
+},
+
+ 
   {
-    title: "Smartlearn AI",
+    title: "C++ Certification (IIT Bombay)",
     location: "Pune",
     description:
-      "I Completed Certification course in AI.",
-    icon: React.createElement(FaRobot),
-    date: "2023",
-  },
-  {
-    title: "Teachnook ML",
-    location: "Pune",
-    description:
-      "I Completed Certification course in Machine Learning.",
-    icon: React.createElement(FaRobot),
-    date: "2023",
-  },
-  {
-    title: "C++ Certification",
-    location: "Pune",
-    description:
-      "I completed C++ Certification Course From IIT Bombay.",
+      "Completed C++ Certification Course from IIT Bombay, strengthening programming fundamentals and problem-solving skills.",
     icon: React.createElement(FaProjectDiagram),
     date: "2024-present",
   },
   {
-    title: "Oasis Infobyte Internship",
+    title: "Oasis Infobyte Data Science Internship",
     location: "Pune",
     description:
-      "Got Selected for Virtual internship by Oasis infobyte in Data Science in second year in college",
+      "Completed a virtual internship in Data Science, gaining experience in data analysis, visualization, and real-world problem-solving.",
     icon: React.createElement(LuGraduationCap),
     date: "2024-present",
   },
   {
-    title: "Bharat Intern Internship",
+    title: "Bharat Intern App Development Internship",
     location: "Pune",
     description:
-      "I secured Virtual internship in App development at Bharat Intern while in second year of college.",
+      "Secured a virtual internship in App Development, working on practical projects and enhancing programming skills.",
     icon: React.createElement(LuGraduationCap),
     date: "2024-present",
   },
+  {
+    title: "Linux Certification (Udemy)",
+    location: "Online",
+    description:
+      "Completed a certification course in Linux, learning system administration, command-line usage, and scripting.",
+    icon: React.createElement(FaProjectDiagram),
+    date: "2024",
+  },
+  {
+    title: "AWS Cloud Certification (Udemy)",
+    location: "Online",
+    description:
+      "Completed AWS certification, gaining hands-on knowledge of cloud computing, services, and deployment best practices.",
+    icon: React.createElement(FaProjectDiagram),
+    date: "2024",
+  },
+  {
+    title: "JP Morgan Software Engineering Simulation (Forage)",
+    location: "Online",
+    description:
+      "Completed a virtual Software Engineering simulation program, understanding real-world SE workflows and problem-solving scenarios.",
+    icon: React.createElement(FaProjectDiagram),
+    date: "2024",
+  },
+  {
+    title: "Walmart Software Engineering Simulation (Forage)",
+    location: "Online",
+    description:
+      "Participated in Walmart's virtual Software Engineering simulation, gaining exposure to industry practices and project implementation.",
+    icon: React.createElement(FaProjectDiagram),
+    date: "2024",
+  },
+  {
+    title: "Java Certification (Oracle)",
+    location: "Online",
+    description:
+      "Completed Java certification from Oracle, strengthening object-oriented programming skills and Java development expertise.",
+    icon: React.createElement(FaProjectDiagram),
+    date: "2024",
+  },{
+    title: "Smartlearn AI Certification",
+    location: "Pune",
+    description:
+      "Completed a professional certification course in Artificial Intelligence, gaining practical skills in AI concepts and applications.",
+    icon: React.createElement(FaRobot),
+    date: "2023",
+  },
+  {
+    title: "Teachnook ML Certification",
+    location: "Pune",
+    description:
+      "Completed a comprehensive Machine Learning certification course, building hands-on experience with ML models and algorithms.",
+    icon: React.createElement(FaRobot),
+    date: "2023",
+  }
 ] as const;
 
 export const projectsData = [
   {
-    title: "Agency Management Platform",
+    title: "Customer Management Platform and Website Builder",
     description:
       "A comprehensive CRM platform designed to streamline lead management, team collaboration, and client communication. Built with modern tech to boost productivity, automate workflows, and scale business growth.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma","PostgreSQL"],
+    tags: [
+  "React",
+  "Next.js",
+  "MongoDB",
+  "Tailwind",
+  "Prisma",
+  "PostgreSQL",
+  "Spring Boot",
+  "Java",
+  "Microservices",
+  "Apache Kafka",
+  "SQL",
+  "Docker",
+  "CI/CD",
+  "Kubernetes",
+  "API Development"
+]
+,
     imageUrl: Agency,
   },
   {
@@ -156,16 +223,51 @@ export const skillsData = [
   "React",
   "React Native",
   "Next.js",
+  "Vue.js",
   "Node.js",
-  "Tailwind",
+  "Spring Boot",
+  "Tailwind CSS",
   "Prisma",
-  "MongoDB",
+  "SQL",
   "PostgreSQL",
-  "Python",
+  "MongoDB",
+  "GraphQL",
+  "REST API",
+  "C",
   "C++",
   "Java",
-  "C",
+  "Python",
   "Machine Learning",
-  "Data structures",
-  "Alogirithms",
+  "Artificial Intelligence",
+  "Data Structures",
+  "Algorithms",
+  "Networking (TCP/IP)",
+  "Linux",
+  "DevOps",
+  "AWS",
+  "Docker",
+  "Kubernetes",
+  "Terraform",
+  "Jenkins",
+  "CI/CD",
+  "Git",
+  "Prometheus",
+  "Grafana",
+  "Apache Kafka",
+  "RabbitMQ",
+  "Virtualization",
+  "TLS/SSL",
+  "VPN Integration",
+  "Secure Coding Standards",
+  "Event-Driven Architecture",
+  "Fault Tolerance",
+  "Scalability",
+  "Load Balancing",
+  "Performance Optimization",
+  "Agile",
+  "SDLC",
+  "Problem-Solving",
+  "Communication",
+  "Leadership",
+  "Ownership Mindset"
 ] as const;

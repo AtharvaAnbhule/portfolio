@@ -148,11 +148,10 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Customer Management Platform and Website Builder",
+    title: "Workeloo CRM",
     description:
-      "A comprehensive CRM platform designed to streamline lead management, team collaboration, and client communication. Built with modern tech to boost productivity, automate workflows, and scale business growth.",
+      "A CRM platform that streamlines lead management, team collaboration, and client communication, boosting productivity and automating workflows for scalable growth.",
     tags: [
-  "React",
   "Next.js",
   "MongoDB",
   "Tailwind",

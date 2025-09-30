@@ -19,7 +19,7 @@ export default function About() {
 </p>
 
 <p>
-<span className="italic">My favorite part of programming</span> is problem-solving. I <span className="underline">love</span> the satisfaction of finding solutions to challenging problems. I have experience with <span className="font-medium">Java, Spring Boot, and Quasar</span>, and enjoy building applications that are both functional and scalable.
+<span className="italic">My favorite part of programming</span> is problem-solving. I love the satisfaction of finding solutions to challenging problems. I have experience with <span className="font-medium">Java, Spring Boot, and Quasar</span>, and enjoy building applications that are both functional and scalable.
 </p>
 
 <p>

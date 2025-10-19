@@ -37,7 +37,15 @@ export const links = [
   },
 ] as const;
 
-export const experiencesData = [
+export const experiencesData = [ 
+  {
+  title: "Software Intern – Data Engineering (Intel Unnati Industrial Training)",
+  location: "Pune, India ",
+  description:
+    "Developed and optimized data pipelines, performed data analysis, and implemented ETL processes for large-scale datasets.",
+  icon: React.createElement(FaRobot),
+  date: "Jan 2025 - Aug 2025",
+},
   {
   title: "Site Reliability Engineer Intern (Applically)",
   location: "Pune",

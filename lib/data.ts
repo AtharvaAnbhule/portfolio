@@ -55,22 +55,8 @@ export const experiencesData = [
   date: "Jan 2025 - Jun 2025",
 } , 
 
-  {
-    title: "Software Engineer Intern (R.K Innovate)",
-    location: "Pune",
-    description:
-      "Completed a hands-on internship, developing software solutions and enhancing practical engineering skills in real-world projects",
-    icon: React.createElement(FaRobot),
-    date: "Jun 2024 - Dec 2024",
-  },
-  {
-    title: "Business Development Intern (Demand Nexus)",
-    location: "Pune",
-    description:
-      "Completed a hands-on internship, driving business growth initiatives, building client relationships, and enhancing practical skills in market research and strategy",
-    icon: React.createElement(FaRobot),
-    date: "Jan 2024 - March 2024",
-},
+  
+  
 
  
   {
